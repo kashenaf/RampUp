@@ -1,0 +1,10 @@
+The purpose of RampUp is to facilitate a build up of learning Selenium Commands piece by piece
+and master the building blocks for the different Frameworks that exists.
+
+* Clear documentation of what's achieved vs where to concentrate next can only be determined
+  after the most basics of syntax's and structures have been in place.
+  RampUp primary objective on 10/20/2016:
+     * Open up a webpage
+     * click on a Textbox to put a cursor
+     * Type in a text in a search box
+     * Push these changes on {RampUp} using Git
